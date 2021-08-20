@@ -1,0 +1,16 @@
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\obj\Debug\net5.0\07Construtor.csproj.AssemblyReference.cache
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\obj\Debug\net5.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\obj\Debug\net5.0\07Construtor.AssemblyInfoInputs.cache
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\obj\Debug\net5.0\07Construtor.AssemblyInfo.cs
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\obj\Debug\net5.0\07Construtor.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\bin\Debug\net5.0\07Construtor.exe
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\bin\Debug\net5.0\07Construtor.deps.json
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\bin\Debug\net5.0\07Construtor.runtimeconfig.json
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\bin\Debug\net5.0\07Construtor.runtimeconfig.dev.json
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\bin\Debug\net5.0\07Construtor.dll
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\bin\Debug\net5.0\ref\07Construtor.dll
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\bin\Debug\net5.0\07Construtor.pdb
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\obj\Debug\net5.0\07Construtor.dll
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\obj\Debug\net5.0\ref\07Construtor.dll
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\obj\Debug\net5.0\07Construtor.pdb
+C:\Users\felip\Desktop\CursoCSharpPOO\07Construtor\obj\Debug\net5.0\07Construtor.genruntimeconfig.cache
