@@ -4,9 +4,8 @@
 ### Assuntos abordados:
 * Classes, atributos, métodos e objetos;
 * Modigficadores de acesso (public, private e protected);
-* Encapsulamento;
+* Encapsulamento (Get e Set);
 * Construtor;
-* Get e Set;
 * This;
 * Herança;
 * Polimorfismo;
