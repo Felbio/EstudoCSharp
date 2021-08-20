@@ -1,6 +1,6 @@
 # Estudos C# - Programação Orientada a Objeto 
 ## Exercicios que foram acompanhados no curso de C# 
-## Ministrada no YouTube pelo professor Ralf Lima
+## Curso ministrado no YouTube pelo professor Ralf Lima
 ### Assuntos abordados:
 * Classes, atributos, métodos e objetos;
 * Modigficadores de acesso (public, private e protected);
